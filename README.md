@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gnupdev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![gnupdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnupdev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
