@@ -1,4 +1,4 @@
-[About Me](gnupdev.notion.site)
+[About Me](https://gnupdev.notion.site)
 
 
 
