@@ -1,4 +1,4 @@
-[About Me](gnupdev.notion.so)
+[About Me](gnupdev.notion.site)
 
 
 
